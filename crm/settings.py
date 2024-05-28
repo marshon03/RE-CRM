@@ -246,9 +246,9 @@ LOGGING = {
     },
 }
 
-APPLICATION_NAME = "bottlecrm"
+APPLICATION_NAME = "recrm"
 
-WAGTAIL_SITE_NAME = "bottlecrm"
+WAGTAIL_SITE_NAME = "recrm"
 
 WAGTAILADMIN_BASE_URL = "https://bottlecrm.com"
 
@@ -269,7 +269,7 @@ REST_FRAMEWORK = {
 
 
 SPECTACULAR_SETTINGS = {
-    "TITLE": "BottleCRM API",
+    "TITLE": "ReCRM API",
     "DESCRIPTION": "Open source CRM application",
     "VERSION": "1.0.0",
     "SERVE_INCLUDE_SCHEMA": False,
